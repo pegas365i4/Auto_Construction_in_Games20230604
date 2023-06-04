@@ -4,6 +4,7 @@
 Github мой: https://github.com/pegas365i4/Auto_Construction_in_Games20230604.git
 
 ## Пример работы программы:
+md [![Демонстрация](https://i9.ytimg.com/vi_webp/ia7vk_FEvVg/mq2.webp?sqp=CPSJ8qMG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVihBMA8=&rs=AOn4CLB2mq8J6vZtEp84W0hirnIzZqVH5Q)](https://www.youtube.com/embed/ia7vk_FEvVg)
 ![Демонстрация](https://www.youtube.com/embed/ia7vk_FEvVg)
 
 ## Установка библиотек:
