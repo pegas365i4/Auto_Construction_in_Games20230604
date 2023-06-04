@@ -1,6 +1,11 @@
 # Auto_Construction_in_Games20230604
 Для автоматического строительства в играх
 
+Github мой: https://github.com/pegas365i4/Auto_Construction_in_Games20230604.git
+
+## Пример работы программы:
+![[https://www.youtube.com/watch?v=ia7vk_FEvVg]]
+
 ## Установка библиотек:
 Вы должны установить библиотеку pynput с помощью команды 
 ```
