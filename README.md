@@ -4,7 +4,7 @@
 Github мой: https://github.com/pegas365i4/Auto_Construction_in_Games20230604.git
 
 ## Пример работы программы:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ia7vk_FEvVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![Демонстрация](https://www.youtube.com/embed/ia7vk_FEvVg)
 
 ## Установка библиотек:
 Вы должны установить библиотеку pynput с помощью команды 
